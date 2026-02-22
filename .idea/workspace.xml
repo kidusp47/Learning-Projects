@@ -121,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771749379216</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tip Calculator">
+      <option name="closed" value="true" />
+      <created>1771750285224</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771750285224</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +152,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testing" />
     <MESSAGE value="tip Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="tip Calculator" />
+    <MESSAGE value="bmi Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="bmi Calculator" />
   </component>
 </project>
