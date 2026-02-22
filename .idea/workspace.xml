@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5d4f38e-d8ef-44db-8fe1-19807dad4fb7" name="Changes" comment="finding the Maximum number in a list">
-      <change beforePath="$PROJECT_DIR$/Greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greeting.py" afterDir="false" />
+    <list default="true" id="e5d4f38e-d8ef-44db-8fe1-19807dad4fb7" name="Changes" comment="FizzBuzz">
+      <change afterPath="$PROJECT_DIR$/Password Generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Fizzbuss.executor": "Run",
     "Python.Greeting.executor": "Run",
+    "Python.Password Generator.executor": "Run",
     "Python.Rovans_adventure.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -201,7 +203,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771796642655</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ranfe Function">
+      <option name="closed" value="true" />
+      <created>1771797294747</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1771797294747</updated>
+    </task>
+    <task id="LOCAL-00017" summary="FizzBuzz">
+      <option name="closed" value="true" />
+      <created>1771797454078</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1771797454078</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +250,8 @@
     <MESSAGE value="lists" />
     <MESSAGE value="Tic Tac Toe" />
     <MESSAGE value="finding the Maximum number in a list" />
-    <option name="LAST_COMMIT_MESSAGE" value="finding the Maximum number in a list" />
+    <MESSAGE value="ranfe Function" />
+    <MESSAGE value="FizzBuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz" />
   </component>
 </project>
