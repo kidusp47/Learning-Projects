@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5d4f38e-d8ef-44db-8fe1-19807dad4fb7" name="Changes" comment="Improved BMI Calculator">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e5d4f38e-d8ef-44db-8fe1-19807dad4fb7" name="Changes" comment="Improved ticket stand">
       <change beforePath="$PROJECT_DIR$/Greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greeting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771753296533</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Improved ticket stand">
+      <option name="closed" value="true" />
+      <created>1771754855769</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1771754855769</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +169,7 @@
     <MESSAGE value="tip Calculator" />
     <MESSAGE value="bmi Calculator" />
     <MESSAGE value="Improved BMI Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improved BMI Calculator" />
+    <MESSAGE value="Improved ticket stand" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improved ticket stand" />
   </component>
 </project>

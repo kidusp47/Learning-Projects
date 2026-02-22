@@ -1,23 +1,28 @@
-print("*****- Disneyland ride ticket stand -*****")
-name = input("what is your name? ")
-age = int(input("what is your age? "))
-height = float(input("what is your height?(cm) "))
+print("*****- Welcome to python Pizza Deliveries!!! -*****")
+size = input("What size pizza do you want?(S, M, OR L)").upper()
+pepperoni = input("Do you want pepperoni?(Y/N)").upper()
+extra_cheese = input("Do you want extra cheese?(Y/N)").upper()
 bill = 0
 
-
-if height >= 120:
-    if age <12 :
-        bill = bill + 5
-    elif 12 <= age <= 18:
-        bill = bill + 7
-    else:
-        bill = bill + 12
-
-    photo = input("would you like a photo(y/n)")
-    if photo == "y":
-        bill = bill + 3
-    print("your bill is", bill)
+if size == "S":
+    bill += 15
+elif size == "M":
+    bill += 20
+elif size == "L":
+    bill += 25
 
 else:
-    print(f"sorry {name}, you are too short")
+    print("Please enter a valid size")
+
+if pepperoni == "Y":
+    if size == "S":
+        bill += 2
+    else:
+        bill += 3
+
+if extra_cheese == "Y":
+    bill += 1
+print("Your bill is", bill)
+
+
 
