@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5d4f38e-d8ef-44db-8fe1-19807dad4fb7" name="Changes" comment="python Pizza Deliveries">
-      <change afterPath="$PROJECT_DIR$/Rovans_adventure.py" afterDir="false" />
+    <list default="true" id="e5d4f38e-d8ef-44db-8fe1-19807dad4fb7" name="Changes" comment="Rovan Adventure Game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greeting.py" afterDir="false" />
     </list>
@@ -61,6 +60,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Greeting.executor": "Run",
+    "Python.Rovans_adventure.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -162,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771760459715</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Rovan Adventure Game">
+      <option name="closed" value="true" />
+      <created>1771770467567</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1771770467567</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +197,7 @@
     <MESSAGE value="Improved BMI Calculator" />
     <MESSAGE value="Improved ticket stand" />
     <MESSAGE value="python Pizza Deliveries" />
-    <option name="LAST_COMMIT_MESSAGE" value="python Pizza Deliveries" />
+    <MESSAGE value="Rovan Adventure Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rovan Adventure Game" />
   </component>
 </project>
