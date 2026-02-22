@@ -1,7 +1,6 @@
-print("""
-1. Mix 500g of Flour, 10g Yeast and 300ml Water in a bowl.
-2. Knead the dough for 10 minutes.
-3. Add 3g of Salt.
-4. Leave to rise for 2 hours.
-5. Bake at 200 degrees C for 30 minutes.
-""")
+print("Welcome to the tip Calculator!")
+bill = float(input("What was the total bill? $"))
+tip_percent = float(input("What percentage tip would you like to give? 10, 12, or 15? "))
+head_count = int(input("How many people to split the bill? "))
+total = round((bill + (bill * tip_percent/100))/head_count, 2)
+print("Each person should pay: $" + str(total))
