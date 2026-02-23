@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5d4f38e-d8ef-44db-8fe1-19807dad4fb7" name="Changes" comment="FizzBuzz">
-      <change afterPath="$PROJECT_DIR$/Password Generator.py" afterDir="false" />
+    <list default="true" id="e5d4f38e-d8ef-44db-8fe1-19807dad4fb7" name="Changes" comment="Password generator&#10;&#10;ngl Coolest Project so far">
+      <change afterPath="$PROJECT_DIR$/Hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greeting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +37,21 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kidusp47"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kidusp47&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kidusp47/Learning-Projects.git",
-    "accountId": "26f8f293-3f1d-4044-9b2a-fc7c2da17988"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kidusp47/Learning-Projects.git&quot;,
+    &quot;accountId&quot;: &quot;26f8f293-3f1d-4044-9b2a-fc7c2da17988&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="3A13uAKuDKl6ZXC5i3M5cs7CCEa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,6 +62,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Fizzbuss.executor": "Run",
     "Python.Greeting.executor": "Run",
+    "Python.Hangman.executor": "Run",
     "Python.Password Generator.executor": "Run",
     "Python.Rovans_adventure.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -219,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771797454078</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Password generator&#10;&#10;ngl Coolest Project so far">
+      <option name="closed" value="true" />
+      <created>1771798644202</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1771798644202</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +263,7 @@
     <MESSAGE value="finding the Maximum number in a list" />
     <MESSAGE value="ranfe Function" />
     <MESSAGE value="FizzBuzz" />
-    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz" />
+    <MESSAGE value="Password generator&#10;&#10;ngl Coolest Project so far" />
+    <option name="LAST_COMMIT_MESSAGE" value="Password generator&#10;&#10;ngl Coolest Project so far" />
   </component>
 </project>
