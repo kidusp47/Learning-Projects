@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5d4f38e-d8ef-44db-8fe1-19807dad4fb7" name="Changes" comment="other">
-      <change afterPath="$PROJECT_DIR$/secret acution.py" afterDir="false" />
+    <list default="true" id="e5d4f38e-d8ef-44db-8fe1-19807dad4fb7" name="Changes" comment="Secret auction">
+      <change afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greeting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/secret acution.py" beforeDir="false" afterPath="$PROJECT_DIR$/secret acution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Caesar Cipher.executor": "Run",
+    "Python.Calculator.executor": "Run",
     "Python.Fizzbuss.executor": "Run",
     "Python.Greeting.executor": "Run",
     "Python.Hangman.executor": "Run",
@@ -284,7 +286,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772012696175</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Secret auction">
+      <option name="closed" value="true" />
+      <created>1772017503276</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1772017503276</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -324,6 +334,7 @@
     <MESSAGE value="Dictionaries" />
     <MESSAGE value="Dictionaries Practice" />
     <MESSAGE value="other" />
-    <option name="LAST_COMMIT_MESSAGE" value="other" />
+    <MESSAGE value="Secret auction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Secret auction" />
   </component>
 </project>

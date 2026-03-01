@@ -1,20 +1,10 @@
-student_scores = {
-    'Harry': 88,
-    'Ron': 78,
-    'Hermione': 95,
-    'Draco': 75,
-    'Neville': 60
+travel_log = {
+    "france": {
+        "num_visit": 8,
+        "cities": ["paris", "Lille", "Dijon"]
+    },
+    "germany": ["Stuttgart", "berlin"],
 }
-student_grades ={}
-for name in student_scores:
-    x = student_scores[name]
-    if x >= 91:
-        student_grades[name] = "Outstanding"
-    elif 81 <= x <= 90:
-        student_grades[name] = "Exceeds Expectations"
-    elif 71 <= x<= 80:
-        student_grades[name] = "Acceptable"
-    else:
-        student_grades[name] = "Fail"
 
-print(student_grades)
+print(travel_log["france"]["cities"][2])
+
